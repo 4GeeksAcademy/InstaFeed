@@ -1,0 +1,39 @@
+.Post {
+    width: 500px;
+    margin: 0 auto;
+    border: 1px;
+    border-color: rgb(0, 0, 0);
+    margin-top: 40px;
+}
+.post-header {
+   padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    font-size: 18px;
+    font-family: Verdana;
+}
+img {
+    width: 100%;
+}
+body {
+    background-color: rgb(242, 197, 204);
+}
+.post-comment {
+padding: 5px;
+background-color: white;
+font-size: 12px;
+font-family: Verdana;
+}
+.post-Title {
+    font-weight: bold;
+
+}
+.UpperBanner {
+    background-color: white;
+    padding: 5px;
+    font-family: Verdana;
+    border-radius: 10px;
+    width: 500px;
+    margin: 0 auto;
+    }
